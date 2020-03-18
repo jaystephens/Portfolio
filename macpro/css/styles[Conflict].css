@@ -1,0 +1,110 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:300,400,700);
+@import url(http://fonts.googleapis.com/css?family=Carrois+Gothic+SC);
+@import url(http://fonts.googleapis.com/css?family=Muli:300,400);
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table; }
+
+.clearfix:after {
+  clear: both; }
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+@font-face {
+  font-family: 'LatoLatinThin';
+  src: url("../fonts/LatoLatin/LatoLatinThin-Regular.eot");
+  src: url("../fonts/LatoLatin/LatoLatinThin-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/LatoLatin/LatoLatinThin-Regular.woff") format("woff"), url("../fonts/LatoLatin/LatoLatinThin-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+html, body {
+  width: 100%;
+  height: 100%; }
+
+body {
+  background-color: #000;
+  width: 100%;
+  height: 100%; }
+
+h1 {
+  color: #FFF;
+  font-family: 'LatoLatinThin', sans-serif;
+  font-size: 3em;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin-top: 50px; }
+
+h2 {
+  color: #fff; }
+
+p {
+  color: #fff;
+  width: 422px;
+  margin: 0 auto;
+  font-family: 'LatoLatinThin', sans-serif;
+  line-height: 1.3; }
+
+.section1 {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  max-height: 100%; }
+
+.section2 {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  max-height: 100%; }
+
+.container {
+  width: 100%;
+  height: 100%;
+  max-width: 600px;
+  max-height: 600px;
+  margin: 0 auto;
+  margin-top: -50px;
+  margin-bottom: 150px; }
+
+.section2 {
+  padding-top: 5px; }
+
+.section2 > article > h1 {
+  margin-top: 50px;
+  margin-bottom: 25px; }
+
+@media screen and (max-width: 500px) {
+  .section2 > article > h1 {
+    margin-bottom: 25px; } }
+@media screen and (max-width: 600px) {
+  .container {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto; }
+
+  h1 {
+    margin-left: 0;
+    float: none;
+    text-align: center;
+    font-size: 2em; }
+
+  p {
+    width: 233px; } }
+@media screen and (min-width: 1256px) {
+  .container {
+    max-width: 700px;
+    max-height: 700px; }
+
+  .macpro {
+    margin-top: -100px; }
+
+  #h1 {
+    margin-left: 110px;
+    float: left; }
+
+  .section2 > article > h1 {
+    text-align: center; } }

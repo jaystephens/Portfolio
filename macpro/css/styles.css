@@ -1,0 +1,485 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:300,400,700);
+@import url(http://fonts.googleapis.com/css?family=Carrois+Gothic+SC);
+@import url(http://fonts.googleapis.com/css?family=Muli:300,400);
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table; }
+
+.clearfix:after {
+  clear: both; }
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+@font-face {
+  font-family: 'LatoLatinThin';
+  src: url("../fonts/LatoLatin/LatoLatinThin-Regular.eot");
+  src: url("../fonts/LatoLatin/LatoLatinThin-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/LatoLatin/LatoLatinThin-Regular.woff") format("woff"), url("../fonts/LatoLatin/LatoLatinThin-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+@font-face {
+  font-family: 'LatoLatinReg';
+  src: url("../fonts/LatoLatin/LatoLatin-Regular.eot");
+  src: url("../fonts/LatoLatin/LatoLatin-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/LatoLatin/LatoLatin-Regular.woff") format("woff"), url("../fonts/LatoLatin/LatoLatin-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+html, body {
+  width: 100%;
+  height: 100%; }
+
+body {
+  background-color: #000; }
+
+h1 {
+  color: #FFF;
+  font-family: 'LatoLatinThin', sans-serif;
+  font-size: 3em;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin-top: 50px; }
+
+h2 {
+  color: #fff;
+  font-family: 'LatoLatinThin', sans-serif;
+  text-align: center;
+  font-size: 2em; }
+
+h3 {
+  color: #fff;
+  font-family: 'LatoLatinReg', sans-serif;
+  text-align: center;
+  font-size: 1em;
+  margin-bottom: 100px; }
+
+p {
+  color: #fff;
+  width: 422px;
+  margin: 0 auto;
+  font-family: 'LatoLatinThin', sans-serif;
+  line-height: 1.3; }
+
+.section1 {
+  height: 100%;
+  width: 100%; }
+
+.section2 {
+  width: 100%; }
+
+.section3 {
+  height: 75%;
+  width: 100%; }
+
+.container {
+  width: 100%;
+  height: 100%;
+  max-width: 600px;
+  max-height: 600px;
+  margin: 0 auto;
+  margin-top: -50px;
+  margin-bottom: 150px; }
+
+@media screen and (max-width: 1100px) {
+  .section2 {
+    padding-top: 5px; }
+
+  .section2 > article > h1 {
+    margin-top: 50px;
+    margin-bottom: 25px; }
+
+  .displays {
+    width: 60%;
+    margin: 0 auto; }
+
+  .fourK {
+    width: 126px;
+    height: 85px;
+    position: absolute;
+    left: 50%;
+    margin: 0 0 0 -200px; }
+
+  .thunderbolt {
+    width: 126px;
+    height: 89px;
+    left: 50%;
+    position: absolute;
+    margin: 0 0 0 75px; }
+
+  .display-h3 {
+    margin-top: 150px; }
+
+  .line1 {
+    height: 0%;
+    border-bottom: solid 1px white;
+    margin-top: 50px; }
+
+  .usb-port {
+    background-image: url("../img/usb-port.png");
+    width: 230px;
+    height: 64px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    margin-bottom: 25px; }
+
+  .thunderbolt-port {
+    background-image: url("../img/thunderbolt-port.png");
+    width: 230px;
+    height: 64px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    background-repeat: no-repeat; }
+
+  .ethernet {
+    background-image: url("../img/ethernet.png");
+    width: 230px;
+    height: 64px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    background-repeat: no-repeat; }
+
+  .hdmi {
+    background-image: url("../img/hdmi-port.png");
+    width: 230px;
+    height: 64px;
+    margin: 0 auto; }
+
+  .connections {
+    margin-top: 100px;
+    margin-bottom: 50px; }
+
+  .wireless {
+    margin-top: 100px;
+    margin-bottom: 50px; }
+
+  .ac {
+    background-image: url("../img/ac.png");
+    width: 73px;
+    height: 96px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    margin-bottom: 25px; }
+
+  .bluetooth {
+    background-image: url("../img/bluetooth.png");
+    width: 115px;
+    height: 96px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    margin-bottom: 50px; }
+
+  .gpu {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+    left: 50%;
+    margin: 0 0 0 -100px; }
+
+  .cpu {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+    left: 50%;
+    margin: 0 0 0 -100px; }
+
+  .memory {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+    left: 50%;
+    margin: 0 0 0 -100px; }
+
+  .tech-spec-header {
+    margin-bottom: 100px; }
+
+  .storage {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    position: relative;
+    left: 50%;
+    margin: 25px 0 25px -75px; } }
+.arrow-down {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  left: 50%;
+  margin: 0 0 0 -25px; }
+
+h5 {
+  text-align: center;
+  color: #FFF;
+  font-family: 'LatoLatinThin', sans-serif; }
+
+a {
+  text-decoration: none; }
+
+.macpro-foot {
+  background-image: url("../img/macpro.png");
+  width: 196px;
+  height: 347px;
+  background-repeat: no-repeat;
+  z-index: 4;
+  position: relative;
+  left: 50%;
+  margin: 100px 0 100px -98px; }
+
+.section2 {
+  margin-bottom: 100px; }
+
+@media screen and (min-width: 1100px) {
+  #task {
+    margin-bottom: 100px;
+    opacity: 0; }
+
+  #processor {
+    opacity: 0; }
+
+  #memory {
+    opacity: 0; }
+
+  #memory-icon {
+    opacity: 0; }
+
+  #cpu {
+    opacity: 0; }
+
+  #graphics {
+    opacity: 0; }
+
+  #display {
+    opacity: 0; }
+
+  #gpu {
+    opacity: 0; }
+
+  #fourK {
+    opacity: 0; }
+
+  #thunderbolt {
+    opacity: 0; }
+
+  #storage {
+    opacity: 0; }
+
+  #connections {
+    opacity: 0; }
+
+  #wireless {
+    opacity: 0; }
+
+  #ethernet {
+    opacity: 0; }
+
+  #usb-port {
+    opacity: 0; }
+
+  #hdmi {
+    opacity: 0; }
+
+  #ac {
+    opacity: 0; }
+
+  #bluetooth {
+    opacity: 0; }
+
+  #macpro-foot {
+    opacity: 0; }
+
+  .line1 {
+    height: 0%;
+    border-bottom: solid 1px white;
+    margin-top: 50px; }
+
+  .tech-spec-header {
+    margin-bottom: 100px;
+    margin-top: 100px; }
+
+  .cpu {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+    left: 50%;
+    margin: 0 0 0 -100px; }
+
+  .gpu {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+    left: 50%;
+    margin: 0 0 0 -100px; }
+
+  .memory {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+    left: 50%;
+    margin: 0 0 0 -100px; }
+
+  .storage {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    position: relative;
+    left: 50%;
+    margin: 25px 0 25px -75px; }
+
+  .displays {
+    width: 60%;
+    margin-top: 25px; }
+
+  .fourK {
+    width: 126px;
+    height: 85px;
+    position: relative;
+    margin-left: 50px;
+    margin-top: 50px; }
+
+  .thunderbolt {
+    width: 126px;
+    height: 89px;
+    left: 75%;
+    position: relative;
+    float: right;
+    background-repeat: no-repeat;
+    margin-right: 50px;
+    margin-top: -90px; }
+
+  .display-h3 {
+    margin-top: 75px; }
+
+  .spec-wrap-left {
+    width: 400px;
+    float: left;
+    margin-left: 10%;
+    clear: left; }
+
+  .spec-wrap-right {
+    width: 400px;
+    float: right;
+    margin-right: 10%;
+    clear: right; }
+
+  .usb-port {
+    background-image: url("../img/usb-port.png");
+    width: 230px;
+    height: 64px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    margin-bottom: 25px; }
+
+  .ethernet {
+    background-image: url("../img/ethernet.png");
+    width: 230px;
+    height: 64px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    background-repeat: no-repeat; }
+
+  .hdmi {
+    background-image: url("../img/hdmi-port.png");
+    width: 230px;
+    height: 64px;
+    margin: 0 auto; }
+
+  .spec-wrap-center {
+    width: 400px;
+    margin: 0 auto;
+    clear: right;
+    clear: left; }
+
+  .ac {
+    background-image: url("../img/ac.png");
+    width: 73px;
+    height: 96px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    margin-bottom: 25px; }
+
+  .bluetooth {
+    background-image: url("../img/bluetooth.png");
+    width: 115px;
+    height: 96px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    margin-bottom: 50px; } }
+@media screen and (min-width: 1400px) {
+  .spec-wrap-left {
+    width: 400px;
+    float: left;
+    margin-left: 20%;
+    clear: left; }
+
+  .spec-wrap-right {
+    width: 400px;
+    float: right;
+    margin-right: 20%;
+    clear: right; } }
+@media screen and (min-width: 2000px) {
+  .spec-wrap-left {
+    width: 400px;
+    float: left;
+    margin-left: 30%;
+    clear: left; }
+
+  .spec-wrap-right {
+    width: 400px;
+    float: right;
+    margin-right: 30%;
+    clear: right; } }
+@media screen and (max-width: 500px) {
+  .section2 > article > h1 {
+    margin-bottom: 25px; } }
+@media screen and (max-width: 600px) {
+  .thunderbolt {
+    margin: 0 0 0 50px; }
+
+  .fourK {
+    margin: 0 0 0 -175px; }
+
+  .container {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto; }
+
+  h1 {
+    margin-left: 0;
+    float: none;
+    text-align: center;
+    font-size: 2.2em; }
+
+  p {
+    width: 233px; }
+
+  h2 {
+    font-size: 1.8em; }
+
+  h3 {
+    width: 75%;
+    margin: 0 auto;
+    font-size: .8em;
+    margin-bottom: 50px; } }
+@media screen and (min-width: 1256px) {
+  .container {
+    max-width: 700px;
+    max-height: 700px; }
+
+  .macpro {
+    margin-top: -100px; }
+
+  #h1 {
+    margin-left: 110px;
+    float: left; }
+
+  .section2 > article > h1 {
+    text-align: center; } }

@@ -1,0 +1,650 @@
+.path1 {
+  -webkit-animation-delay: 1.5s;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 1.5s;
+  animation-duration: 2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 1900;
+  stroke-dashoffset: 1900; }
+
+.path2 {
+  -webkit-animation-delay: 4s;
+  -webkit-animation-duration: 3s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4s;
+  animation-duration: 3s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 900;
+  stroke-dashoffset: 900; }
+
+.path3 {
+  -webkit-animation-delay: 4s;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4s;
+  animation-duration: 2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 900;
+  stroke-dashoffset: 900; }
+
+.path4 {
+  -webkit-animation-delay: 3s;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 3s;
+  animation-duration: 2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 1200;
+  stroke-dashoffset: 1200; }
+
+.path5 {
+  -webkit-animation-delay: 4.5s;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4.5s;
+  animation-duration: 2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 900;
+  stroke-dashoffset: 900; }
+
+.path6 {
+  -webkit-animation-delay: 1.9s;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 1.9s;
+  animation-duration: 2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 1900;
+  stroke-dashoffset: 1900; }
+
+.path7 {
+  -webkit-animation-delay: 4.5s;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4.5s;
+  animation-duration: 2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 900;
+  stroke-dashoffset: 900; }
+
+.path8 {
+  -webkit-animation-delay: 4.6s;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4.6s;
+  animation-duration: 2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 500;
+  stroke-dashoffset: 500; }
+
+.path9 {
+  -webkit-animation-delay: 0.5s;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 0.5s;
+  animation-duration: 2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path10 {
+  -webkit-animation-delay: 0.5s;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 0.5s;
+  animation-duration: 2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path11-1 {
+  -webkit-animation-delay: 5s;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 5s;
+  animation-duration: 2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path11-2 {
+  -webkit-animation-delay: 5.3s;
+  -webkit-animation-duration: 2.2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 5.3s;
+  animation-duration: 2.2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path11-3 {
+  -webkit-animation-delay: 4.8s;
+  -webkit-animation-duration: 2.4s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4.8s;
+  animation-duration: 2.4s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 126;
+  stroke-dashoffset: 126; }
+
+.path11-4 {
+  -webkit-animation-delay: 5.25s;
+  -webkit-animation-duration: 2.4s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 5.25s;
+  animation-duration: 2.4s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path11-5 {
+  -webkit-animation-delay: 4.8s;
+  -webkit-animation-duration: 2.2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4.8s;
+  animation-duration: 2.2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 250;
+  stroke-dashoffset: 250; }
+
+.path11-6 {
+  -webkit-animation-delay: 4.5s;
+  -webkit-animation-duration: 2.1s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4.5s;
+  animation-duration: 2.1s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 180;
+  stroke-dashoffset: 180; }
+
+.path11-7 {
+  -webkit-animation-delay: 4.7s;
+  -webkit-animation-duration: 2.3s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4.7s;
+  animation-duration: 2.3s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path11-8 {
+  -webkit-animation-delay: 5.3s;
+  -webkit-animation-duration: 2.2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 5.3s;
+  animation-duration: 2.2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path11-9 {
+  -webkit-animation-delay: 5.11s;
+  -webkit-animation-duration: 2.2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 5.11s;
+  animation-duration: 2.2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path11-10 {
+  -webkit-animation-delay: 5.2s;
+  -webkit-animation-duration: 2.2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 5.2s;
+  animation-duration: 2.2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path11-11 {
+  -webkit-animation-delay: 4.6s;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4.6s;
+  animation-duration: 2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path11-12 {
+  -webkit-animation-delay: 4.9s;
+  -webkit-animation-duration: 2.2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4.9s;
+  animation-duration: 2.2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path11-13 {
+  -webkit-animation-delay: 5s;
+  -webkit-animation-duration: 2.4s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 5s;
+  animation-duration: 2.4s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path11-14 {
+  -webkit-animation-delay: 5.12s;
+  -webkit-animation-duration: 1s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 5.12s;
+  animation-duration: 1s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100; }
+
+.path11-15 {
+  -webkit-animation-delay: 5.2s;
+  -webkit-animation-duration: 2.2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 5.2s;
+  animation-duration: 2.2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 250;
+  stroke-dashoffset: 250; }
+
+.path11-16 {
+  -webkit-animation-delay: 4.7s;
+  -webkit-animation-duration: 2.1s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4.7s;
+  animation-duration: 2.1s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 180;
+  stroke-dashoffset: 180; }
+
+.path11-17 {
+  -webkit-animation-delay: 4.6s;
+  -webkit-animation-duration: 2.3s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4.6s;
+  animation-duration: 2.3s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path11-18 {
+  -webkit-animation-delay: 5.4s;
+  -webkit-animation-duration: 2.2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 5.4s;
+  animation-duration: 2.2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 125;
+  stroke-dashoffset: 125; }
+
+.path11-19 {
+  -webkit-animation-delay: 4.8s;
+  -webkit-animation-duration: 2.2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4.8s;
+  animation-duration: 2.2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 150;
+  stroke-dashoffset: 150; }
+
+.path11-20 {
+  -webkit-animation-delay: 5.5s;
+  -webkit-animation-duration: 2.2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 5.5s;
+  animation-duration: 2.2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 220;
+  stroke-dashoffset: 220; }
+
+.path11-21 {
+  -webkit-animation-delay: 5.1s;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 5.1s;
+  animation-duration: 2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100; }
+
+.path11-22 {
+  -webkit-animation-delay: 4.6s;
+  -webkit-animation-duration: 2.2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4.6s;
+  animation-duration: 2.2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path11-23 {
+  -webkit-animation-delay: 4.8s;
+  -webkit-animation-duration: 2.4s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4.8s;
+  animation-duration: 2.4s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 218;
+  stroke-dashoffset: 218; }
+
+.path11-24 {
+  -webkit-animation-delay: 5.32s;
+  -webkit-animation-duration: 1s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 5.32s;
+  animation-duration: 1s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100; }
+
+.path11-25 {
+  -webkit-animation-delay: 4.85s;
+  -webkit-animation-duration: 2.2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4.85s;
+  animation-duration: 2.2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 250;
+  stroke-dashoffset: 250; }
+
+.path11-26 {
+  -webkit-animation-delay: 4.65s;
+  -webkit-animation-duration: 2.1s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4.65s;
+  animation-duration: 2.1s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100; }
+
+.path11-27 {
+  -webkit-animation-delay: 5.2s;
+  -webkit-animation-duration: 2.3s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 5.2s;
+  animation-duration: 2.3s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 160;
+  stroke-dashoffset: 160; }
+
+.path11-28 {
+  -webkit-animation-delay: 5.3s;
+  -webkit-animation-duration: 2.2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 5.3s;
+  animation-duration: 2.2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path11-29 {
+  -webkit-animation-delay: 4.8s;
+  -webkit-animation-duration: 2.2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 4.8s;
+  animation-duration: 2.2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 250;
+  stroke-dashoffset: 250; }
+
+.path11-30 {
+  -webkit-animation-delay: 5.2s;
+  -webkit-animation-duration: 2.2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 5.2s;
+  animation-duration: 2.2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path12 {
+  -webkit-animation-delay: 5s;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-name: chase;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 5s;
+  animation-duration: 2s;
+  animation-name: chase;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path13 {
+  opacity: 0;
+  -webkit-animation-delay: 6.8s;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-name: fadeIn;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 6.8s;
+  animation-duration: 2s;
+  animation-name: fadeIn;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path14 {
+  opacity: 0;
+  -webkit-animation-delay: 6.8s;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-name: fadeIn;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 6.8s;
+  animation-duration: 2s;
+  animation-name: fadeIn;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.path15 {
+  opacity: 0;
+  -webkit-animation-delay: 6.8s;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-name: fadeIn;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 6.8s;
+  animation-duration: 2s;
+  animation-name: fadeIn;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200; }
+
+.lables {
+  opacity: 0;
+  -webkit-animation-delay: 6s;
+  -webkit-animation-duration: 1s;
+  -webkit-animation-name: fadeIn;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: ease-out;
+  animation-delay: 6s;
+  animation-duration: 1s;
+  animation-name: fadeIn;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-out; }
+
+@-webkit-keyframes chase {
+  100% {
+    stroke-dashoffset: 1; } }
+@keyframes chase {
+  100% {
+    stroke-dashoffset: 1; } }
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0; }
+
+  100% {
+    opacity: 1; } }
+@keyframes fadeIn {
+  0% {
+    opacity: 0; }
+
+  100% {
+    opacity: 1; } }
