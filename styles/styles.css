@@ -1,6 +1,50 @@
 body {
   margin: 0; }
 
+.arrowbtn {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background: #111;
+  border: 2px solid hotpink;
+  border-radius: 100px;
+  color: hotpink;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+  left: 50%;
+  line-height: 100px;
+  margin-left: -50px;
+  -webkit-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out; }
+  
+  .arrowbtn:hover {
+    background: white;
+    border-color: white;
+    color: #111; }
+
+  .arrowbtn:after {
+    position: absolute;
+    display: inline-block;
+    content: "";
+    width: 25px;
+    height: 25px;
+    top: 50%;
+    left: 50%; }
+
+.arrowbtn-down {
+  bottom: 50px; }
+
+.arrowbtn-down:after {
+  margin-left: -12.5px;
+  margin-top: -18.75px;
+  border-bottom: 2px solid;
+  border-right: 2px solid;
+  -webkit-transform: rotateZ(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotateZ(45deg); }
+  
 .main-content {
   width: 1200px;
   max-width: 90%;
@@ -26,15 +70,13 @@ body {
     transform: translate(-50%, -50%); }
 
 header {
-  height: 100px;
   background-color: #000000;
   position: relative;
   z-index: 9999; }
   header img {
     width: 250px;
     float: left;
-    top: 50%;
-    position: relative; }
+    position: absolute; }
 
 .fixHeader {
   position: fixed;
@@ -56,8 +98,7 @@ header {
   margin: 0 auto; }
 
 ul#horizontal-list {
-  list-style: none;
-  padding-top: 20px; }
+  list-style: none; }
 
 ul#horizontal-list li {
   display: inline;
@@ -123,43 +164,3 @@ footer {
     border-bottom: 1px solid #ffffff;
     padding-bottom: 50px; } }
 
-.arrowbtn {
-  position: absolute;
-  width: 100px;
-  height: 100px;
-  background: #111;
-  border: 2px solid hotpink;
-  border-radius: 100px;
-  color: hotpink;
-  cursor: pointer;
-  display: block;
-  margin: 0 auto;
-  left: 50%;
-  line-height: 100px;
-  margin-left: -50px;
-  -webkit-transition: all 0.25s ease-in-out;
-  -o-transition: all 0.25s ease-in-out;
-  transition: all 0.25s ease-in-out; }
-  .arrowbtn:hover {
-    background: white;
-    border-color: white;
-    color: #111; }
-  .arrowbtn:after {
-    position: absolute;
-    display: inline-block;
-    content: "";
-    width: 25px;
-    height: 25px;
-    top: 50%;
-    left: 50%; }
-
-.arrowbtn-down {
-  bottom: 20px; }
-  .arrowbtn-down:after {
-    margin-left: -12.5px;
-    margin-top: -18.75px;
-    border-bottom: 2px solid;
-    border-right: 2px solid;
-    -webkit-transform: rotateZ(45deg);
-    -ms-transform: rotate(45deg);
-    transform: rotateZ(45deg); }
